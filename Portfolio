@@ -1,0 +1,11 @@
+<header>
+  <!-- Profile photo: place your image file in your repo and update the src -->
+  <img src="your photo.jpeg" alt="Frank Prince Ukobasi" style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-bottom: 10px;">
+  
+  <h1>Frank Prince Ukobasi</h1>
+  <p>Law Student | Public Speaker | Trainer | Blogger | Poet</p>
+  <p>
+    <a href="https://www.linkedin.com/in/frankprinceukobasi" target="_blank">LinkedIn</a> | 
+    <a href="https://github.com/frankprince" target="_blank">GitHub</a>
+  </p>
+</header>
